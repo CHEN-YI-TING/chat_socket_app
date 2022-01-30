@@ -9,6 +9,7 @@
 * npm install
 * react -> npm run start
 * node -> npm run dev
+* 同時開兩個 http://localhost:3000 頁面
 
 ## 前端頁面
 ### 這是聊天室頁面
